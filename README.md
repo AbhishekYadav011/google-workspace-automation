@@ -7,4 +7,5 @@ This repo is created to get the user list of entire org , list of members from a
 ## Set the value of below [varibales](https://developers.google.com/admin-sdk/directory/v1/guides/delegation#python) before executing this code:
 1. Delegated email id
 2. SERVICE_ACCOUNT_JSON_FILE_PATH = 'Json file path'
-3. scopes=['https://www.googleapis.com/auth/admin.directory.user','https://www.googleapis.com/auth/admin.directory.orgunit','https://www.googleapis.com/auth/admin.directory.group.member']
+3. scopes=['https://www.googleapis.com/auth/admin.directory.user','https://www.googleapis.com/auth/admin.directory.orgunit',
+'https://www.googleapis.com/auth/admin.directory.group.member']
